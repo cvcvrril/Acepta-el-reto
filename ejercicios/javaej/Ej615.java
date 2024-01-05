@@ -1,3 +1,5 @@
+package javaej;
+
 import java.util.Scanner;
 
 public class Ej615 {
