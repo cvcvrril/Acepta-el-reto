@@ -1,5 +1,5 @@
 # Acepta-el-reto
-Ejercicios de Acepta el reto (en Java y próximamente en C)<br>
+Ejercicios de Acepta el reto en Java<br>
 Ejercicios resueltos:
 
 | Nº | Nombre del ejercicio | .java | .c |
